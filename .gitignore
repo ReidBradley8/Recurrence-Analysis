@@ -3,6 +3,12 @@
 # environments
 .env
 
+# scratches
+scratch*
+
+# images
+*.png
+
 # Github specified  -----------------
 
 # Byte-compiled / optimized / DLL files
