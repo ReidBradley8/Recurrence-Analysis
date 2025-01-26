@@ -11,6 +11,6 @@
 `SurveyData` object holds data from the survey. <br/>
 `survey = SurveyData(data='data/output.json')` <br/><br/>
 `WordEncoder` manipulates survey data and encodes tokens to integers. <br/>
-`encoder = WordEncoder(data=survey)
+`encoder = WordEncoder(data=survey) <br/>
 table_2_series = encoder.get_table_series(table=2)`
 
